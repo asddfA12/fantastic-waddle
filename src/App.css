@@ -1,12 +1,44 @@
 .App {
   text-align: center;
 }
+.CartillaTotal {
+  display: inline-block;
+}
+.Cartilla1 {
+  display: inline-block;
+  font-size: 17px;
+  background-color: white;
+  margin:6px;
+  padding:10px;
+  
+  
+}
+.sdivision{
+  background-color: rgb(174, 106, 238);
+  color:white;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  text-align: center;
 
+}
+.propa{
+  background-color: #ff1b1b;
+  color:aliceblue;
+  padding: 3px;
+  text-align: center;
+  margin-bottom: 2px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+#Popover1 {
+  background-color: #6dd6f0;
+  font-size: 20px;
+  margin:10px;
+  display: inline-block;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
